@@ -44,6 +44,12 @@ As opposed to being fixed with what Angular gives you, which often breaks from o
 
 
 ### Set up React Environment ###
+1. Install Node.js
+2. Go to Terminal, run ***sudo npm i -g create-react-app@1.5.2***
+3. Open VS Code
+4. Install Simple React Snippets
+5. Install Prettier - Code formatter
+6. Turn on formatOnSave to Yes
 
 
 
